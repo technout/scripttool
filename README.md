@@ -15,14 +15,20 @@ Requirements
 - Tkinter version 8.6 or higher is required
 - Tcl version 8.6 or higher is required
 
-Install requirements
---------------------
-Installing for Ubuntu systems:
+Install
+-------
+Installation for Ubuntu systems:
+
 sudo apt install python3
+
 sudo apt install tk
+
 sudo apt install tcl
+
 Optional (and to learn): download the PAGE builder from <http://page.sourceforge.net/>
+
 Download this project code
+
 Run script_tool.py from the project directory (python3 ~/script_tool/script_tool.py)
 
 License
