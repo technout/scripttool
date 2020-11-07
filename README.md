@@ -27,7 +27,7 @@ sudo apt install tcl
 
 Optional (and to learn): download the PAGE builder from <http://page.sourceforge.net/>
 
-Download this project release <https://github.com/technout/scripttool/releases>
+Download script_tool project release <https://github.com/technout/scripttool/releases>
 
 Extract the files and run script_tool.py from the project directory (form the command line: python3 ~/script_tool/script_tool.py)
 
