@@ -2,6 +2,8 @@
 Small Python GUI tool to execute some bash commands
 My main goal: how to make a GUI application in Python.
 
+![Screenshot](https://github.com/technout/scripttool/blob/main/script_tool_screen2.png)
+
 The GUI is made with PAGE, a wysiwyg interface building tool to generate the code for the Python GUI.
 
 Link to PAGE project: <http://page.sourceforge.net/html/intro.html>
